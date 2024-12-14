@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH -A {account name, this depends on your HPC cluster}
+#SBATCH -C gpu
+#SBATCH -q regular
+#SBATCH -J Llama
+#SBATCH --mail-user=haote.li@yale.edu
+#SBATCH --mail-type=ALL
+#SBATCH -t 12:00:00
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=1
+#SBATCH -c 32
+#SBATCH --gpus-per-task=4
+
+export SLURM_CPU_BIND="cores"
+
+module load conda
+conda activate {your_environment_name}
+cd {your_job_directory_that_contains_the_script}
+srun python Multi_GPU_Submit_Optimizing.py
+
