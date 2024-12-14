@@ -5,7 +5,7 @@ This repository contains the official implementation of "Scaling Large Language 
 
 ## Overview
 
-MOSAIC is a computational framework that transforms how chemists access and apply collective synthetic knowledge. By fine-tuning the open-source Llama 3.1-8B-instruct model into 2,489 specialized chemistry experts, MOSAIC implements a scaling search paradigm that partitions and navigates chemical space through computationally efficient Voronoi regions.
+MOSAIC is a computational framework that fine-tunes the open-source Llama 3.1-8B-instruct model into 2,489 specialized chemistry experts. MOSAIC implements a scaling search paradigm that partitions and navigates chemical space through Voronoi regions.
 
 ## Requirements
 
