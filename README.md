@@ -1,5 +1,7 @@
-# MOSAIC
-Multiple Optimized Specialists for AI-Driven Chemical Prediction
+<td><img src="G_abstract.png" alt="SSD-NMR Abstract" width="400"></td>
+
+
+
 
 This repository contains the official implementation of "Scaling Large Language Models for AI-Driven Chemical Synthesis".
 
