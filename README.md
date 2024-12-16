@@ -1,4 +1,4 @@
-<td><img src="Abstractv1.pdf" alt="SSD-NMR Abstract" width="400"></td>
+<td><img src="Abstractv1.pdf" alt="MOSACI" width="400"></td>
 
 
 
