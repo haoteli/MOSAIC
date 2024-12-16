@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Abstractv1.png" alt="MOSAIC" width="1200">
+  <img src="Abstractv1.png" alt="MOSAIC" width="1000">
 </p>
 
 This repository contains the official implementation of "Scaling Large Language Models for AI-Driven Chemical Synthesis".
