@@ -26,7 +26,7 @@ datasets==3.0.0
 python-Levenshtein==0.26.0
 ```
 
-For a complete list of dependencies, see [requirements.txt].
+For a complete list of dependencies, see [requirement.txt].
 
 ## Installation
 
