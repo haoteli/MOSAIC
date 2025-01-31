@@ -2,7 +2,7 @@
   <img src="Abstractv1.png" alt="MOSAIC" width="1000">
 </p>
 
-This repository contains the official implementation of "Scaling Large Language Models for AI-Driven Chemical Synthesis".
+This repository contains the official implementation of "Collective Intelligence of Specialized Language Models Guides Realization of de novo Chemical Synthesis".
 
 ## Overview
 
