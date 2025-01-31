@@ -1,9 +1,8 @@
-python==3.11.9
 numpy==1.23.5
 torch==2.4.1
 pandas==1.5.3
 rdkit==2023.9.6
-tqdm==2.4.41
+tqdm
 matplotlib==3.9.1
 faiss-gpu==1.7.4
 transformers==4.45.1
