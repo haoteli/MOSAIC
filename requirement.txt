@@ -4,7 +4,7 @@ pandas==1.5.3
 rdkit==2023.9.6
 tqdm
 matplotlib==3.9.1
-faiss-gpu==1.7.4
+faiss-gpu
 transformers==4.45.1
 peft==0.12.0
 trl==0.11.1
