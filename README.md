@@ -38,7 +38,7 @@ cd MOSAIC
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 3. Set up the Pistachio database, or use any custom databases
@@ -67,7 +67,7 @@ MOSAIC/
 │       ├── RSFP_Expert_Index_Finetuning.py
 │       └── Submit_All_Expert_Trainings.ipynb
 ├── Main_Control.ipynb                                   # Main execution notebook with examples
-└── requirements.txt                                     # Project dependencies
+└── requirement.txt                                     # Project dependencies
 ```
 
 
