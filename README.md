@@ -43,6 +43,8 @@ cd MOSAIC
 pip install -r requirement.txt
 ```
 
+Typical installation time on a normal desktop computer is 10-20 minutes.
+
 3. Set up the Pistachio database, or use any custom databases
 
 ## Project Structure
