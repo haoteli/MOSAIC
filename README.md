@@ -6,7 +6,7 @@ This repository contains the official implementation of "Collective Intelligence
 
 ## Overview
 
-MOSAIC is a computational framework that fine-tunes the open-source Llama 3.1-8B-instruct model into 2,489 specialized chemistry experts. MOSAIC implements a scaling search paradigm that partitions and navigates chemical space through Voronoi regions.
+MOSAIC is a computational framework that fine-tunes the open-source Llama 3.1-8B-instruct model into 2,498 specialized chemistry experts. MOSAIC implements a scaling search paradigm that partitions and navigates chemical space through Voronoi regions.
 A preprint is available on ChemRxiv: 
 [Collective Intelligence of Specialized Language Models Guides Realization of de novo Chemical Synthesis](https://chemrxiv.org/engage/chemrxiv/article-details/679a8f11fa469535b958a862)
 
