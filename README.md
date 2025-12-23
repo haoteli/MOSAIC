@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Abstractv1.png" alt="MOSAIC" width="1000">
+  <img src="Graphical_Abstract_v2.png" alt="MOSAIC" width="1000">
 </p>
 
 This repository contains the official implementation of "Collective Intelligence of Specialized Language Models Guides Realization of de novo Chemical Synthesis".
