@@ -2,7 +2,7 @@
   <img src="Graphical_Abstract_v2.png" alt="MOSAIC" width="1000">
 </p>
 
-This repository contains the official implementation of "Collective Intelligence for AI-Assisted Chemical Synthesis".
+This repository contains the official implementation of "[Collective Intelligence for AI-Assisted Chemical Synthesis](https://www.nature.com/articles/s41586-026-10131-4)".
 
 ## Overview
 
@@ -99,7 +99,18 @@ MOSAIC/
 
 5. **Running the Framework**
    - Execute `Main_Control.ipynb` for testing and examples
-
+   
+## Citation
+```bibtex
+@article{li2026collective,
+  title={Collective intelligence for AI-assisted chemical synthesis},
+  author={Li, Haote and Sarkar, Sumon and Lu, Wenxin and Loftus, Patrick O and Qiu, Tianyin and Shee, Yu and Cuomo, Abbigayle E and Webster, John-Paul and Kelly, H and Manee, Vidhyadhar and others},
+  journal={Nature},
+  pages={1--3},
+  year={2026},
+  publisher={Nature Publishing Group}
+}
+```
 
 ## Contact
 For questions about this work, please open an issue or contact the corresponding authors.
